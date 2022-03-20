@@ -1,5 +1,5 @@
 # FSMINet (GRSL 2022)
-Fully Squeezed Multi-Scale Inference Network for Fast and Accurate Saliency Detection in Optical Remote Sensing Images, [Kunye Shen](https://scholar.google.com.hk/citations?hl=zh-CN&user=q6_PkywAAAAJ), [Xiaofei Zhou](https://scholar.google.com.hk/citations?hl=zh-CN&user=2PUAFW8AAAAJ), Bin Wan, Ran Shi, Jiyong Zhang.
+'Fully Squeezed Multi-Scale Inference Network for Fast and Accurate Saliency Detection in Optical Remote Sensing Images', [Kunye Shen](https://scholar.google.com.hk/citations?hl=zh-CN&user=q6_PkywAAAAJ), [Xiaofei Zhou](https://scholar.google.com.hk/citations?hl=zh-CN&user=2PUAFW8AAAAJ), Bin Wan, Ran Shi, Jiyong Zhang.
 
 ## Required libraries
 
@@ -17,4 +17,4 @@ The SSIM loss is adapted from [pytorch-ssim](https://github.com/Po-Hsun-Su/pytor
 ```
 https://github.com/Kunye-Shen/FSMINet.git
 ```
-We provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/drive/folders/1gbhZJePO20P8ncFoq0pA9XjOnFRN_5iP?usp=sharing) or [baidu](https://pan.baidu.com/s/1w9VaKXJSY5OZetQec8Hxdw) extraction code: 12so.)
+We provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/drive/folders/1gbhZJePO20P8ncFoq0pA9XjOnFRN_5iP?usp=sharing) or [baidu]() extraction code: 12so.)
