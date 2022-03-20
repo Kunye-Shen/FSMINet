@@ -17,4 +17,17 @@ The SSIM loss is adapted from [pytorch-ssim](https://github.com/Po-Hsun-Su/pytor
 ```
 https://github.com/Kunye-Shen/FSMINet.git
 ```
-We provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/drive/folders/1gbhZJePO20P8ncFoq0pA9XjOnFRN_5iP?usp=sharing) or [baidu]() extraction code: 12so.)
+We provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/drive/folders/1gbhZJePO20P8ncFoq0pA9XjOnFRN_5iP?usp=sharing) or [baidu](https://pan.baidu.com/s/1w9VaKXJSY5OZetQec8Hxdw) extraction code: 12so.)
+
+## Architecture
+### FSM Module
+![FSM Module architecture](figures/FSM.png)
+
+### FSMINet
+![FSMINet architecture](figures/FSMINet.png)
+
+## Quantitative Comparison
+![Quantitative Comparison](figures/Quantitative.png)
+
+## Qualitative Comparison
+![Qualitative Comparison](figures/Qualitative.png)
