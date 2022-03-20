@@ -1,4 +1,4 @@
-# FSMINet(GRSL 2022)
+# FSMINet (GRSL 2022)
 Fully Squeezed Multi-Scale Inference Network for Fast and Accurate Saliency Detection in Optical Remote Sensing Images, [Kunye Shen](https://scholar.google.com.hk/citations?hl=zh-CN&user=q6_PkywAAAAJ), [Xiaofei Zhou](https://scholar.google.com.hk/citations?hl=zh-CN&user=2PUAFW8AAAAJ), Bin Wan, Ran Shi, Jiyong Zhang.
 
 ## Required libraries
