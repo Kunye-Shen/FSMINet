@@ -31,3 +31,14 @@ We provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/d
 
 ## Qualitative Comparison
 ![Qualitative Comparison](figures/Qualitative.png)
+
+## Citation
+```
+@article{shen2022fully,
+  title={Fully Squeezed Multi-Scale Inference Network for Fast and Accurate Saliency Detection in Optical Remote Sensing Images},
+  author={Shen, Kunye and Zhou, Xiaofei and Wan, Bin and Shi, Ran and Zhang, Jiyong},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2022},
+  publisher={IEEE}
+}
+```
