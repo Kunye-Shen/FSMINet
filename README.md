@@ -18,7 +18,7 @@ The SSIM loss is adapted from [pytorch-ssim](https://github.com/Po-Hsun-Su/pytor
 https://github.com/Kunye-Shen/FSMINet.git
 ```
 
-2. We provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/drive/folders/1gbhZJePO20P8ncFoq0pA9XjOnFRN_5iP?usp=sharing) or [baidu](https://pan.baidu.com/s/1w9VaKXJSY5OZetQec8Hxdw) extraction code: 12so.) You can download directly through the above methods, or contact us through the following email.
+2. We provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/drive/folders/1gbhZJePO20P8ncFoq0pA9XjOnFRN_5iP?usp=sharing) or [baidu](https://pan.baidu.com/s/1w9VaKXJSY5OZetQec8Hxdw) extraction code: 12so.). You can download directly through the above methods, or contact us through the following email.
 ```
 KunyeShen@outlook.com
 ```
